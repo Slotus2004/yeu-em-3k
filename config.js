@@ -10,7 +10,7 @@ const CONFIG = {
     question:'Nói cho Tau biết đi vì sao Mi thích tau 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì mii dễ thưn đóaaa Ahiiiii 😊😊',
+    reply: 'tại vì tau iu mi á <3333',
     mess: 'Tau biết mà, Tau cũng thích Mi lắm 🥰. Love you 300.000 😘😘',
     messDesc: '💬💬 Nhắn tin cho Tau nhaaaaa. 💬💬',
     btnAccept: 'Ok lun 💖',
